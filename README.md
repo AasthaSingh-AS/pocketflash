@@ -20,9 +20,9 @@ each other. It will save time and energy of a person. It has a template to creat
 
 ## Usage:-
 1. Download the Project.
-2. Run database file (script.sql).
-3. Change connection String in Web.config.
-4. Build the Project and start from Homepage.aspx .
+2. Run database file.
+3. Change connection String.
+4. Build the Project and start from Home page.
 5. Create your Account and fill details and get signup.
 6. Update your Profile.
 7. Now add flashcards to your dashboards.
