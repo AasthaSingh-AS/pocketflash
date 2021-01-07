@@ -25,4 +25,6 @@ each other. It will save time and energy of a person. It has a template to creat
 4. Build the Project and start from Homepage.aspx .
 5. Create your Account and fill details and get signup.
 6. Update your Profile.
-7. 
+7. Now add flashcards to your dashboards.
+8. Make collections of flashcards as a group for studying and important notes.
+9. 
