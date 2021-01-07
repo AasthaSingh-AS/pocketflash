@@ -18,7 +18,7 @@ each other. It will save time and energy of a person. It has a template to creat
  * Angular CLI
  * NPM
 
-## Steps To Execute the Solution (Usage):-
+## Usage:-
 1. Download the Project.
 2. Run database file (script.sql).
 3. Change connection String in Web.config.
