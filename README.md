@@ -1,18 +1,22 @@
 # PocketFlash
 
 ## Description
-The primary goal of **DIVISIMA** , an _e-commerce site_ is to sell goods online. This project deals with developing an e-commerce website for **Online Product Sale**. 
-It provides the user with a _catalog_ of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. 
-The system is implemented using a **3-tier approach**, with a backend database, a middle tier of Microsoft Internet Information Services (IIS) and a web browser as the front end client. _This is a project with the objective to develop a basic website where a consumer is provided with a shopping cart application where he can add desirable products in the cart and buy._ The only _limit_ is the customer can buy the products that are available within the state reach; in other words he can't order products which are from other states. 
+PocketFlash is a simple platform(website) that focuses on new learning ways of contemporary society. 
+Here we’re creating a web application providing access to the different field of users to store their personal stuff and short notes in the form of flashcards. They would be able to access them anywhere, anytime at any platform just in few clicks. Share with different users. People can change the way of learning by using digital platform instead of physical notes. They don’t need to write every time, when required. It’s better than creating physical notes, as it provides a quality learning, people starts getting interest in using it. It’s totally a free platform, user don’t need to pay anything. It’s better, faster or cheaper platform than other platforms. Surfing different websites leads to wastage of time, energy, money and efforts. If one’s notes gets misplaced can’t be get back. Or if we talk about professionals, they also prefer more to be digitally active rather than pin pointing everything on paper, our website could be very useful in those scenarios. We’re having different features, to make resource available easily to the users. It is incredibly practical and useful resource for making learning process more dynamic and easy. Make and study your flashcards for free, or copy and edit from the millions of flashcards in the PocketFlash library. As we believe technology can help every student learn more effectively by connecting students to their study materials and to
+each other. It will save time and energy of a person. It has a template to create cards and you can add unlimited cards in the decks after you create an account by linking on any of your social media account. 
 
 ## Technologies Used:-
- * Platform:- ASP.NET
- * Language:- C#
- * Back-end:- Microsoft SQL Server
-
+ * Platform:- Mean Stack
+ * Database:- MongoDB
+ * Node.js
+ * Express
+ * AngularJS
+ 
 ## Tools Requirement:-
- * To view the code:- Visual Studio 2019
- * Database:- MsSQL and SSMS(SQL Server Management Studio)
+ * To view the code:- Visual Studio Code
+ * Database:- MongoDB(NoSQL)
+ * Angular CLI
+ * NPM
 
 ## Steps To Execute the Solution (Usage):-
 1. Download the Project.
