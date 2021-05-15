@@ -32,3 +32,6 @@ each other. It will save time and energy of a person. It has a template to creat
 
 THAT'S IT!
 **_YOU CAN SEE HOW USEFUL THIS APPLICATION IS TO EVERYONE WHETHER YOU BELONG TO ANY AGE GROUP._**
+
+
+### THANK YOU!
